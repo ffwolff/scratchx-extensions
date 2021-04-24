@@ -11,3 +11,7 @@
 # Site oficial do ScratchX
 
 # https://scratchx.org/
+
+# Vídeo:
+
+# https://www.youtube.com/watch?v=b6zhB38f8k8
